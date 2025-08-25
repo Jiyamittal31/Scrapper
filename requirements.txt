@@ -1,0 +1,7 @@
+Flask
+pymongo
+gunicorn
+scrapy
+psycopg2-binary
+selenium
+webdriver-manager
